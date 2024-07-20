@@ -15,7 +15,7 @@ git clone https://github.com/karim2756/flutter-ecommerce-app.git
 ```
 3. For Backend:
 - Install Xampp for localhost
-- Copy sql queries from the file ecommerce.sql located in Backend Folder and paste it in phpMyAdmin. 
+- Copy sql queries from the file ecommerce.sql file located in Backend folder and paste it in phpMyAdmin SQL to create the Database. 
 
 
 ## 🚀 Features
@@ -30,23 +30,29 @@ git clone https://github.com/karim2756/flutter-ecommerce-app.git
 - Checkout 
 - Canceling order
 ## 💻 Technologies
-
-- Model-View-Controller (MVC) architecture
-- GetX State Management 
-
-## Backend
+- Model-View-Controller(MVC) Architecture
+- State Management: GetX
+- MiddleWare
+- HTTP
+- Shared Preferences 
+### Backend
 - php & MySql
 ## 📸 Screenshots
-![Screenshot_1721488211](https://github.com/user-attachments/assets/2d951e7a-d461-4f7f-86f2-35060c3630e2)
-![Screenshot_1721488237](https://github.com/user-attachments/assets/95ea0932-4c4c-4469-8aea-d5bbdb9bda40)
-![Screenshot_1721488245](https://github.com/user-attachments/assets/232bff12-6b76-4cb0-a8f7-dd3d22663337)
-![Screenshot_1721488292](https://github.com/user-attachments/assets/a8e792cf-75ce-4e46-9525-8ad5b81d26c8)
-![Screenshot_1721488322](https://github.com/user-attachments/assets/ef185b25-583e-486f-b795-d89b3f5f7eff)
-![Screenshot_1721488455](https://github.com/user-attachments/assets/e320ed64-49dc-45e0-a106-06d83090b98f)
-![Screenshot_1721488466](https://github.com/user-attachments/assets/89cb3869-440a-4f41-ba5e-d0e85e8037c1)
-![Screenshot_1721488471](https://github.com/user-attachments/assets/ad9d36f5-799f-4481-a79d-a2159e5fea1b)
-![Screenshot_1721488522](https://github.com/user-attachments/assets/04d2e52a-64d7-4519-87ae-43b3cc13b99a)
-![Screenshot_1721488536](https://github.com/user-attachments/assets/5653ae04-c211-467c-8864-ccbaa7818db6)
+<p >
+  <img src="https://github.com/user-attachments/assets/2d951e7a-d461-4f7f-86f2-35060c3630e2" width="250" height="600" />
+    <img src="https://github.com/user-attachments/assets/95ea0932-4c4c-4469-8aea-d5bbdb9bda40" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/232bff12-6b76-4cb0-a8f7-dd3d22663337" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/a8e792cf-75ce-4e46-9525-8ad5b81d26c8" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/ef185b25-583e-486f-b795-d89b3f5f7eff" width="250" height="600" />
+ <img src="https://github.com/user-attachments/assets/e234f0f5-8eaa-45ef-b1c5-c61734d46584" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/b02ec722-ed4b-497b-b90e-4a719f64a1bc" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/e320ed64-49dc-45e0-a106-06d83090b98f" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/89cb3869-440a-4f41-ba5e-d0e85e8037c1" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/ad9d36f5-799f-4481-a79d-a2159e5fea1b" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/04d2e52a-64d7-4519-87ae-43b3cc13b99a" width="250" height="600" />
+  <img src="https://github.com/user-attachments/assets/5653ae04-c211-467c-8864-ccbaa7818db6" width="250" height="600" />
+</p>
+
 
 
 ## 🤝 Contributing
